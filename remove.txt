@@ -1,0 +1,4 @@
+running install_lib
+copying build\lib\Mytago.py -> c:\Python24\Lib\site-packages
+byte-compiling c:\Python24\Lib\site-packages\Mytago.py to Mytago.pyc
+
